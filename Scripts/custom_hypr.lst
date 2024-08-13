@@ -60,11 +60,15 @@ qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
 firefox                                                # browser
+brave                                                  # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-vim                                                    # terminal text editor
-code                                                   # ide text editor
+nvim                                                   # terminal text editor
+btop                                                   # terminal system monitor
+btrfs-assistant                                        # btrfs gui
+discord                                                # chat client
+docker                                                 # container runtime
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
@@ -72,8 +76,11 @@ oh-my-zsh-git|zsh                                      # plugin manager for zsh
 zsh-theme-powerlevel10k-git|zsh oh-my-zsh-git          # theme for zsh
 lsd|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
-fastfetch                                              # system information fetch tool
+neofetch                                               # system information fetch tool
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
+duf                                                    # disk usage
+zellij                                                 # terminal multiplexer
+zoxide                                                 # directory jumper
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
