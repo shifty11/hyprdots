@@ -27,7 +27,7 @@ hyprland                                               # wlroots-based wayland c
 hyprlock                                               # screen locker
 hypridle                                               # idle manager
 dunst                                                  # notification daemon
-rofi-lbonn-wayland-git                                 # application launcher
+rofi-wayland                                           # application launcher
 waybar                                                 # system bar
 swww                                                   # wallpaper
 wlogout                                                # logout menu
@@ -75,7 +75,7 @@ docker                                                 # container runtime
 eza|zsh                                                # file lister for zsh
 oh-my-zsh-git|zsh                                      # plugin manager for zsh
 zsh-theme-powerlevel10k-git|zsh oh-my-zsh-git          # theme for zsh
-lsd|fish                                               # file lister for fish
+eza|fish                                               # file lister for fish
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
 pokemon-colorscripts-git|zsh                           # display pokemon sprites
